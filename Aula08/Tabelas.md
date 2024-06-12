@@ -7,7 +7,7 @@ Tabelas
 
 
 Tags para a construcao da tabela.
-<table></table> - Tag inicial para construir a tabela.Todo oconteudo vem dentro dela.
+<table></table> - Tag inicial para construir a tabela.Todo o conteudo vem dentro dela.
 
 <thead></thead> - Cabecalho da tabela.
 <tr></tr>(tableRow) - criar uma linha dentro do cabecalho.
